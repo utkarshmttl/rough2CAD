@@ -20,7 +20,7 @@ Creating floor plans, though seemingly simplistic, is a very time-consuming and 
 <img src="./Sample/input.jpeg"/> 
 <br>
 
-> input image
+> output image
 
 <img src="./Sample/output.png"/> 
 <br><br>
