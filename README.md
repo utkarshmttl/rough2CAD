@@ -15,10 +15,17 @@ Creating floor plans, though seemingly simplistic, is a very time-consuming and 
 
 ## Expected (sample) Outcome
 
-<img src="./Sample/input.jpeg"/> <img src="./Sample/output.png"/> 
+> input image
+
+<img src="./Sample/input.jpeg"/> 
+<br>
+
+> input image
+
+<img src="./Sample/output.png"/> 
 <br><br>
 
-## Contributing
+## Contribution Requirements
 
 * Knowledge of Python
 * Some experience with OpenCV and/or Image Processing is a big plus.
