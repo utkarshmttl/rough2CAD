@@ -33,7 +33,7 @@ Resources:
 - (https://stacks.stanford.edu/file/druid:cg133bt2261/Ahmed_Wheeler_Generating_PowerPoint_Slides_from_Hand_Drawn_Sketches.pdf)
 <br> 
 <b>Step 2: </b> Detect other shapes which may/may not represent other features like doors and and windows
-I think we should let our algorithm detect such features and ask the user if it represents something. If the user says yes and selects doors(pre-existing set of objects), we will save it and create an SVM for it so that it is easier to detect it later.<br>
+I think we should let our algorithm detect such features and ask the user if it represents something. If the user says yes and selects doors(pre-existing set of objects), we will save it and create an SVM for it so that it is easier to detect it later.<br><br>
 <b>Step 3:</b> What else is left?
 
 ## Contribution Requirements
