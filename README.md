@@ -25,6 +25,18 @@ Creating floor plans, though seemingly simplistic, is a very time-consuming and 
 <img src="./Sample/output.png"/> 
 <br><br>
 
+## HOW?
+Step 1:
+Detection of lines and corners
+Resources:
+- (http://answers.opencv.org/question/25526/corners-and-lines-detection-in-hand-drawn-pictures-in-python/)
+- (https://stacks.stanford.edu/file/druid:cg133bt2261/Ahmed_Wheeler_Generating_PowerPoint_Slides_from_Hand_Drawn_Sketches.pdf)
+Step 2
+Detect other shapes which may/may not represent other features like doors and and windows
+I think we should let our algorithm detect such features and ask the user if it represents something. If the user says yes and selects doors(pre-existing set of objects), we will save it and create an SVM for it so that it is easier to detect it later.
+Step 3
+What else is left?
+
 ## Contribution Requirements
 
 * Knowledge of Python
