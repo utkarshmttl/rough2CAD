@@ -14,6 +14,8 @@ for corner in corners:
     x,y = corner.ravel()
     cv2.circle(img,(x,y),3,255,-1000)
 
+cv2.imwrite('result.jpg',img)
+
 cv2.imshow('corners',img)
 
 cv2.waitKey(0)
